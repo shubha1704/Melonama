@@ -40,7 +40,7 @@ Multi class Classification using a Custum Convolutional neural network in tensor
 
 ## Acknowledgements
 
-- Upgrad Instructors and Live Sessions
+ Live Sessions
 
 
 
