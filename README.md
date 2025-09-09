@@ -1,5 +1,5 @@
 # Melonama-
-Multi class Classification using a Custum Convolutional neural network in tensor flow
+Multi class Classification using a Custom Convolutional neural network in tensor flow
 ### Melanoma detection- multiclass classification model using a custom convolutional neural network in TensorFlow. 
 
 
